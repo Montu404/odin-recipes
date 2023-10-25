@@ -9,6 +9,8 @@
 .beef-header {
 text-align: center;
 font-family: 'Times New Roman', Times, serif;
+background-color: rgb(238, 134, 37);
+color: antiquewhite;
 }
 
 .back {
@@ -20,6 +22,9 @@ font-family: 'Times New Roman', Times, serif;
 
 .text {
     text-align: center;
+    font-family: georgia;
+    font-size: medium;
+    font-weight: 500;
 }
 
 .brownie-header {
@@ -27,4 +32,38 @@ font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: 700;
     font-size: xx-large;
+}
+
+.beef-list.text {
+    background-color: rgb(66, 63, 63);
+    color: beige;
+    font-weight: 700;
+    font-family: arial;
+}
+
+.steps {
+    font-weight: 400;
+    font-size: large;
+}
+
+.brownie-header {
+    background-color: rgb(77, 50, 31);
+    color: antiquewhite;
+}
+
+.h3 {
+    background-color: rgb(77, 50, 31);
+    color: antiquewhite;
+}
+
+.brownie-list {
+    background-color: rgb(77, 50, 31);
+    color: rgb(224, 224, 202);
+    font-weight: 700;
+    font-family: arial;
+}
+
+.brownie-steps {
+    font-weight: 400;
+    font-size: large;
 }

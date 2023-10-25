@@ -1,0 +1,30 @@
+.center {
+    height: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.beef-header {
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.back {
+    background-color: bisque;
+    color: black;
+    width:80px;
+    height: 30px;
+}
+
+.text {
+    text-align: center;
+}
+
+.brownie-header {
+    color: rgb(126, 47, 23);
+    text-align: center;
+    font-weight: 700;
+    font-size: xx-large;
+}
